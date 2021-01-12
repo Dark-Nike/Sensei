@@ -1,6 +1,5 @@
 <a href="https://facebook.com/groups/1025357004650652">
-<img src="https://img.shields.io/badge/TOOLS-SENSEI-blueviolet">
-<img src="https://img.shields.io/badge/SIZE-199%20KB-brightgreen"><br>
+
 Dark-Fb No Login 100% safe
 <img src="https://github.com/BOT-033/Sensei/blob/master/Screenshot_2020-07-16-00-13-54-17.jpg">
 # TERMUX
