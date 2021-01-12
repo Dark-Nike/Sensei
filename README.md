@@ -7,7 +7,7 @@ Dark-Fb No Login 100% safe
 ```
 • pkg install python2 && git -y
 • pip2 install requests mechanize tqdm
-• git clone https://github.com/BOT-033/Sensei
+• git clone https://github.com/DARK-NIKE/Sensei
 • cd Sensei
 • chmod +x *
 • python2 main.py
@@ -15,7 +15,7 @@ Dark-Fb No Login 100% safe
 # Kali Linux
 ```
 • sudo apt-get install python2 && git -y
-• sudo git clone https://github.com/BOT-033/Sensei
+• sudo git clone https://github.com/DARK-NIKE/Sensei
 • sudo apt-get install python3-pip
 • sudo pip3 install requests mechanize tqdm
 • cd Sensei
